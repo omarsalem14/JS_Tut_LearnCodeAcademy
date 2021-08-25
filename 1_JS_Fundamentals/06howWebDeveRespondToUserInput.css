@@ -1,0 +1,25 @@
+/* body {
+  font-family: "helvetica neue";
+  color: #666;
+  padding: 0 20%;
+}
+img {
+  width: 200px;
+}
+.hide {
+  display: none;
+} */
+
+body {
+  font-family: "helvetica neue";
+  color: #666;
+  padding: 0 20%;
+}
+img {
+  width: 200px;
+  /* display: block;
+  margin-bottom: 10px; */
+}
+.hide {
+  display: none;
+}
